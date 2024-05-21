@@ -52,9 +52,3 @@ This HTML and PHP script is designed to fetch student details from a database ba
 
 7. **Closing Connection**:
    - The database connection is closed after the query is executed.
-
-
-        th {
-            background-color: #f2f2f2;
-        }
-        form input[type="text"] {
