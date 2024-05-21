@@ -53,31 +53,7 @@ This HTML and PHP script is designed to fetch student details from a database ba
 7. **Closing Connection**:
    - The database connection is closed after the query is executed.
 
-### Detailed HTML Form and PHP Script Code
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Display Student Details</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 500px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f9f9f9;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 20px;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
         th {
             background-color: #f2f2f2;
         }
